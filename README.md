@@ -10,6 +10,7 @@ The leaderboard for evidence retrieval task in QASPER dataset
 5. [OpenAI embedding API](https://github.com/mukulpatnaik/researchgpt)
 6. [OpenAI chatgpt with prompt](...)
 7. [SciDPR](https://github.com/gmftbyGMFTBY/SciDPR)
+8. [MultiCite](https://aclanthology.org/2022.naacl-main.137.pdf)
 
 
 | Model | Evidence-F1 on dev set | Evidence-F1 on test set |
@@ -25,6 +26,7 @@ The leaderboard for evidence retrieval task in QASPER dataset
 | OpenAI embedding API | | |
 | OpenAI ChatGPT with prompt | | |
 | SciDPR | | |
+| MultiCite | - | 0.48 |
 | Human (lower bound) | - | 71.62 |
 
 Experiment with extractive subset of QASPER
