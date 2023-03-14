@@ -7,6 +7,9 @@ The leaderboard for evidence retrieval task in QASPER dataset
 2. [TF-IDF](https://aclanthology.org/2021.naacl-main.365.pdf)
 3. [LED-base+InfoNCE loss](https://aclanthology.org/2022.naacl-main.207.pdf)
 4. [ELECTRA-CE/CE-FT](https://arxiv.org/pdf/2210.01959.pdf)
+5. [OpenAI embedding API](https://github.com/mukulpatnaik/researchgpt)
+6. [OpenAI chatgpt with prompt](...)
+7. [SciDPR](https://github.com/gmftbyGMFTBY/SciDPR)
 
 
 | Model | Evidence-F1 on dev set | Evidence-F1 on test set |
@@ -19,6 +22,9 @@ The leaderboard for evidence retrieval task in QASPER dataset
 | LED-base+InfoNCE loss | 24.90 | 30.60 |
 | ELECTRA-CE | 31.75 | 36.37 |
 | ELECTRA-CE-FT | 31.58 | 36.12 |
+| OpenAI embedding API | | |
+| OpenAI ChatGPT with prompt | | |
+| SciDPR | | |
 | Human (lower bound) | - | 71.62 |
 
 Experiment with extractive subset of QASPER
