@@ -15,11 +15,11 @@ The leaderboard for evidence retrieval task in QASPER dataset
 
 | Model | Evidence-F1 on dev set | Evidence-F1 on test set |
 | ----- | ---------------------- | ----------------------- |
-| LED-base | 23.94 | 29.85 |
-| LED-large | 31.25 | 39.37 |
-| TF-IDF | 10.68 | 9.20 |
 | Random paragraph | 2.09 | 1.30 |
 | First paragraph | 0.71 | 0.34 |
+| TF-IDF | 10.68 | 9.20 |
+| LED-base | 23.94 | 29.85 |
+| LED-large | 31.25 | 39.37 |
 | LED-base+InfoNCE loss | 24.90 | 30.60 |
 | ELECTRA-CE | 31.75 | 36.37 |
 | ELECTRA-CE-FT | 31.58 | 36.12 |
