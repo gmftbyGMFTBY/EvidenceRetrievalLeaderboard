@@ -28,15 +28,3 @@ The leaderboard for evidence retrieval task in QASPER dataset
 | SciDPR | | |
 | MultiCite | - | 0.48 |
 | Human (lower bound) | - | 71.62 |
-
-Experiment with extractive subset of QASPER
-
-
-| Model | Evidence-F1 on dev set | Evidence-F1 on test set |
-| ----- | ---------------------- | ----------------------- |
-| LED-base | 23.94 | 29.85 |
-| LED-large | 31.25 | 39.37 |
-| TF-IDF | 10.68 | 9.20 |
-| Random paragraph | 2.09 | 1.30 |
-| First paragraph | 0.71 | 0.34 |
-| Human (lower bound) | - | 71.62 |
