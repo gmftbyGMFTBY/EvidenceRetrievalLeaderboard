@@ -5,7 +5,8 @@ The leaderboard for evidence retrieval task in QASPER dataset
 
 1. [LED-base/large](https://aclanthology.org/2021.naacl-main.365.pdf)
 2. [TF-IDF](https://aclanthology.org/2021.naacl-main.365.pdf)
-3. [LED-base+QE loss](https://aclanthology.org/2022.naacl-main.207.pdf)
+3. [LED-base+InfoNCE loss](https://aclanthology.org/2022.naacl-main.207.pdf)
+4. [ELECTRA-CE/CE-FT](https://arxiv.org/pdf/2210.01959.pdf)
 
 
 | Model | Evidence-F1 on dev set | Evidence-F1 on test set |
@@ -15,7 +16,9 @@ The leaderboard for evidence retrieval task in QASPER dataset
 | TF-IDF | 10.68 | 9.20 |
 | Random paragraph | 2.09 | 1.30 |
 | First paragraph | 0.71 | 0.34 |
-| LED-base+QE loss | 24.94 | 30.55 |
+| LED-base+InfoNCE loss | 24.90 | 30.60 |
+| ELECTRA-CE | 31.75 | 36.37 |
+| ELECTRA-CE-FT | 31.58 | 36.12 |
 | Human (lower bound) | - | 71.62 |
 
 Experiment with extractive subset of QASPER
