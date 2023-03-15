@@ -26,5 +26,5 @@ The leaderboard for evidence retrieval task in QASPER dataset
 | OpenAI embedding API | | |
 | OpenAI ChatGPT with prompt | | |
 | SciDPR | | |
-| MultiCite | - | 0.48 |
+| MultiCite | - | 48 |
 | Human (lower bound) | - | 71.62 |
