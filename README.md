@@ -25,5 +25,6 @@ The leaderboard for evidence retrieval task in QASPER dataset
 | ELECTRA-CE-FT | 31.58 | 36.12 |
 | OpenAI embedding API | | |
 | OpenAI ChatGPT with prompt | | |
-| SciDPR | | |
+| SciDPR Top-1 (LED test script) | | |
+| SciDPR Best  (LED test script) | | |
 | Human (lower bound) | - | 71.62 |
